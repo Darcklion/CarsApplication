@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="server_url">http://api-aws-eu-qa-1.auto1-test.com/v1/car-types/</string>
+</resources>

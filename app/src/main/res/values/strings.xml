@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CarsApplication</string>
+    <string name="your_choice">Your choice:</string>
+    <string name="chose_another">Choose another</string>
+</resources>
